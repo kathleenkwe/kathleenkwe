@@ -12,13 +12,14 @@ I'm excited to connect with like-minded professionals and explore opportunities 
 ## Tools
 
 ### Network
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nmap-4EAA25?&style=for-the-badge&logo=Nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco-1BA0E4?&style=for-the-badge&logo=Cisco&logoColor=white" />
-
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-4EAA25?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco-1BA0E4?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>
 
 ## Certifications
 
 - [Introduction to Cloud Computing](https://www.credly.com/badges/ec3cb102-032c-40fd-8ccd-d3b8fb869880/linked_in_profile) - IBM
 - [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/account/accomplishments/verify/SKGC4G3W7FWG) - IBM
-- [Developing Front-End Apps with React](https://www.credly.com/) - IBM (Replace with the actual link when available)
+
